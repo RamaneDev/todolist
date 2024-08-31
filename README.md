@@ -1,3 +1,16 @@
+# Install vuejs
+```
+npm install -g @vue/cli
+```
+
+# create vuejs app
+```
+vue create nameofproject (in lower cases)
+```
+
+
+
+
 # todolist
 
 ## Project setup
